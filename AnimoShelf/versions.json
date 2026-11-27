@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "1.0.3",
-    "downloadUrl": "https://github.com/haibun-master/applications-version/releases/download/AnimoShelf-v1.0.3/Animo-Shelf-Android-1.0.3.apk",
-    "sha256": "60b90894329a88246649f9a7f0ba37889377926fa6783df2a6a641ac3cb1aa46"
+    "version": "1.0.4",
+    "downloadUrl": "https://github.com/haibun-master/applications-version/releases/download/AnimoShelf-v1.0.4/Animo-Shelf-Android-1.0.4.apk",
+    "sha256": "e119d4e6a244e9777d6b1b4b0069c9fd8c6abae8700ef5e3b3e10ae302009a0f"
   },
   "windows": {
-    "version": "1.0.3",
-    "downloadUrl": "https://github.com/haibun-master/applications-version/releases/download/AnimoShelf-v1.0.3/Animo-Shelf-Windows-1.0.3-x64.msi",
-    "sha256": "4d80fbe569bc36bab72187a4e4bb9eff5d79c41bfb9964e6def77515253c28ed"
+    "version": "1.0.4",
+    "downloadUrl": "https://github.com/haibun-master/applications-version/releases/download/AnimoShelf-v1.0.4/Animo-Shelf-Windows-1.0.4-x64.msi",
+    "sha256": "d7e5d5d7339b7efc0e6feed12ec02092e0f2cc09424571d8ff096253a49a1d9c"
   }
 }
