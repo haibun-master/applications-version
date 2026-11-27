@@ -1,7 +1,7 @@
 {
   "android": {
-    "version": "1.2.1",
-    "downloadUrl": "",
-    "sha256": ""
+    "version": "1.2.2",
+    "downloadUrl": "https://github.com/haibun-master/applications-version/releases/download/WeissSchwarz-v1.2.2/Weiss-Schwarz-Collection-1.2.2.apk",
+    "sha256": "82c48e1a983d544a5d973de33e7a974467e6c6c2f9afbc098ca80e8133632d4e"
   }
 }
